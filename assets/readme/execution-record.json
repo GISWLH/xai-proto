@@ -1,0 +1,12 @@
+{
+  "repo": "GISWLH/xai-proto",
+  "environment": "EHPC PBS",
+  "execution_scope": "Original protocol schemas compiled and a 66-byte TokenizeTextRequest serialized and decoded on EHPC. This is a local schema round-trip only; no RPC, tokenization service or model response was used.",
+  "exit_code": 0,
+  "output": {
+    "path": "assets/readme/execution-result.png",
+    "sha256": "aaad5acc20fd0e28bffecbf358d32b33cb63185df87a492065357987f27dfa63"
+  },
+  "browser": "Firefox 91.10 ESR",
+  "source_modified": false
+}

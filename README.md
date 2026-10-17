@@ -62,3 +62,14 @@ The protobuf definitions and related files are licensed under the Apache-2.0 Lic
 <!-- readme-visual-refresh:artwork-source -->
 [Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
 <!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:execution -->
+## Demonstration captured on EHPC · 17 October 2026
+
+![Original protocol schemas compiled and a 66-byte TokenizeTextRequest serialized and decoded on EHPC. This is a local schema round-trip only; no RPC, tokenization service or model response was used.](assets/readme/execution-result.png)
+
+Original protocol schemas compiled and a 66-byte TokenizeTextRequest serialized and decoded on EHPC. This is a local schema round-trip only; no RPC, tokenization service or model response was used.
+
+[Capture record and checksums](assets/readme/execution-record.json).
+<!-- /readme-visual-refresh:execution -->
