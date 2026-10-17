@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![xai-proto — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # xAI API Protobuf Definitions
 
 This repository hosts the public Protocol Buffer (protobuf) definitions for xAI's gRPC-based APIs. These protobuf files define the service interfaces and message structures compatible with xAI's gRPC servers, enabling developers to generate client SDKs in any language supported by the protobuf and gRPC ecosystems. xAI provides an official SDK for [Python](https://github.com/xai-org/xai-sdk-python), which is built on top of these protobuf definitions.
@@ -54,3 +58,7 @@ Please see the [contributing documentation](./CONTRIBUTING.md) for full details 
 ## License
 
 The protobuf definitions and related files are licensed under the Apache-2.0 License
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
